@@ -9,7 +9,7 @@ public class PracProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PracProjectApplication.class, args);
-		System.out.println("Hi pd here..");
+		System.out.println("Hi pd here.."); 
 	}
 
 }
